@@ -31,6 +31,8 @@ I am a Computer Science student, interested in Software Development and Data Sci
 ### Profile Overview:
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhimehrotra99&theme=highcontrast&show_icons=true&hide_border=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimehrotra99&theme=highcontrast&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [instagram]: https://www.instagram.com/nutmegs_n_roulettes/
 [linkedin]: https://www.linkedin.com/in/abhinav-mehrotra-385575170/
