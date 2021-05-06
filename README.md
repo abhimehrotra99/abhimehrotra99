@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 **My Name is Abhinav Mehrotra.**
 I am a Computer Science student, interested in Software Development and Data Science. I have worked on projects in the fields of Web Development, Data Analytics and Machine Learning.
 
