@@ -1,48 +1,119 @@
-# Hey, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-**My Name is Abhinav Mehrotra.**
-I'm a Full Stack Developer.
-I am a swift learner, am creative and always keen to learn and build new products. I specialize in technologies like Golang, Python, Node.js, ReactJS, TypeScript, SQL and MongoDB among others.
+<div align="center">
 
+# Hey, I'm Abhinav 👋
 
+### Software Engineer · Builder · Football Enthusiast
 
-### Reach Me:
-[<img align="left" alt="codeSTACKr | Website" width="22px" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+I like building things, breaking things, and figuring out why they broke.
 
 <br/>
 
-### Languages and Tools:
+## 🌐 Alter Egos
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<div align="center">
+
+<a href="https://abhimehrotra99.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/◉%20PORTFOLIO-111111?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/abhimehrotra99/">
+  <img src="https://img.shields.io/badge/◉%20LINKEDIN-0A66C2?style=for-the-badge" />
+</a>
+
+<a href="https://www.instagram.com/nutmegs_n_roulettes/">
+  <img src="https://img.shields.io/badge/◉%20INSTAGRAM-E4405F?style=for-the-badge" />
+</a>
 
 <br/>
 
+<sub>Build things. Share ideas. Enjoy the game. ⚡</sub>
 
+</div>
+
+</div>
 
 ---
-<!---
-### Profile Overview:
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhimehrotra99&theme=highcontrast&show_icons=true&hide_border=true)
--->
 
-<!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimehrotra99&theme=highcontrast&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
--->
+## 🧰 Technical Arsenal
 
-[instagram]: https://www.instagram.com/nutmegs_n_roulettes/
-[linkedin]: https://www.linkedin.com/in/abhimehrotra99/
-[website]: https://abhimehrotra99.github.io/portfolio/
+### 💻 Languages
+
+<p>
+<a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" width="50"/></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="50"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="50"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="50"/></a>
+<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="50"/></a>
+</p>
+
+### ⚙️ Backend & Infrastructure
+
+<p>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="50"/></a>
+<a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" width="50"/></a>
+<a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="50"/></a>
+<a href="https://www.jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" width="50"/></a>
+<a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="50"/></a>
+<a href="https://argo-cd.readthedocs.io/"><img src="https://skillicons.dev/icons?i=argocd" width="50"/></a>
+</p>
+
+### 🗄️ Data & Messaging
+
+<p>
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="50"/></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="50"/></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/></a>
+<a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="50"/></a>
+<a href="https://kafka.apache.org/"><img src="https://skillicons.dev/icons?i=kafka" width="50"/></a>
+</p>
+
+**PostgreSQL · MySQL · DynamoDB · MongoDB · Redis · Kafka · SQS**
+
+### 🤖 AI / LLM
+
+<p>
+<a href="https://openai.com/">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+</a>
+<a href="https://www.anthropic.com/claude">
+<img src="https://img.shields.io/badge/Claude-191919?style=flat-square"/>
+</a>
+<a href="https://livekit.io/">
+<img src="https://img.shields.io/badge/LiveKit-111111?style=flat-square"/>
+</a>
+</p>
+
+**LLM Pipelines · Multi-Agent Systems · Real-Time AI**
+
+---
+
+## 🚀 Stuff I'm Building
+
+A collection of side projects, experiments, and random ideas that seemed like a good idea at 2 AM.
+
+<!-- Add your featured repositories here -->
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhimehrotra99&theme=github_dark" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhimehrotra99&theme=github_dark" height="180"/>
+
+</div>
+
+---
+
+## ⚽ A Little More About Me
+
+Football, quizzes, random rabbit holes, and occasionally pretending that a 10-line problem requires a distributed system.
+
+<div align="center">
+
+### Build. Break. Learn. Repeat. 🚀
+
+</div>
